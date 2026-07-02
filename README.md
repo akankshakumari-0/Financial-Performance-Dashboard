@@ -1,61 +1,60 @@
-# Financial Performance Dashboard
+# Financial Performance & Profitability Dashboard
 
 ## Project Overview
 
-This Power BI dashboard provides insights into sales performance, profitability, customer segments, and discount analysis.
+This Power BI dashboard analyzes financial performance and profitability across sales, profit, gross sales, customer segments, countries, products, and discount bands. The dashboard helps identify sales trends, profitable segments, and business performance insights through interactive visuals and slicers.
 
 ## Key Features
 
-- Total Sales Analysis
-- Total Profit Tracking
-- Gross Sales Overview
-- Units Sold Analysis
-- Monthly Sales Trend
-- Sales by Segment
-- Profit by Country
-- Sales by Product Analysis
-- Profit by Discount Band Analysis
-- Interactive Slicers for Dynamic Filtering
-
+- Total Sales, Total Profit, Gross Sales, and Units Sold analysis
+- Monthly Sales Trend analysis
+- Sales performance by Segment
+- Profit analysis by Country
+- Product-wise Sales analysis
+- Profitability analysis by Discount Band
+- Interactive slicers for Year, Country, and Segment
+  
 ## Tools Used
 
 - Power BI Desktop
 - DAX
 - Data Modeling
 - Data Visualization
+- Business Intelligence
 
 ## Dashboard Preview
 
-![Financial Dashboard](Financial_Performance_Dashboard.png)
+![Financial Performance Dashboard](Financial_Performance_Dashboard.png)
+
 
 ## Key Insights
 
-- Sales peaked during October and December.
-- Government and Small Business segments contributed the highest sales.
-- France generated the highest profit among all countries.
-- Low discount bands generated the highest profits.
-
+- Sales showed strong performance during October and December.
+- Government and Small Business segments contributed significantly to total sales.
+- France generated the highest profit among countries.
+- Low discount band contributed strongly to profitability.
+- Product and segment-level analysis helped identify key revenue drivers.
+  
 ## Skills Demonstrated
 
-- Data Cleaning
-- Data Modeling
+- Financial Analysis
+- Profitability Analysis
+- KPI Reporting
 - DAX Calculations
 - Interactive Dashboard Design
-- KPI Reporting
 - Data Visualization
 - Business Insights Generation
 
 ## Author
 
-Akanksha Kumari
+**Akanksha Kumari**  
+MBA Data Analytics | Aspiring Data Analyst
 
-MBA (Data Analytics) | Aspiring Data Analyst
-
-LinkedIn: https://www.linkedin.com/in/akanksha-k-353a1b414/
-
+- LinkedIn: https://www.linkedin.com/in/akanksha-k-353a1b414
+- GitHub: https://github.com/akankshakumari-0
+  
 ## Dataset
 
-Source: Financial Sample Dataset (Kaggle)
+Source: Financial Sample Dataset from Kaggle
 
-Dataset Link:
-https://www.kaggle.com/datasets/talalhakem/financial-sample
+Dataset Link: https://www.kaggle.com/datasets/talalhakem/financial-sample
