@@ -35,9 +35,20 @@ This Power BI dashboard provides insights into sales performance, profitability,
 - France generated the highest profit among all countries.
 - Low discount bands generated the highest profits.
 
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- DAX Calculations
+- Interactive Dashboard Design
+- KPI Reporting
+- Data Visualization
+- Business Insights Generation
+
 ## Author
 
-**Akanksha Kumari**  
+Akanksha Kumari
+
 MBA (Data Analytics) | Aspiring Data Analyst
 
 LinkedIn: https://www.linkedin.com/in/akanksha-k-353a1b414/
@@ -45,3 +56,6 @@ LinkedIn: https://www.linkedin.com/in/akanksha-k-353a1b414/
 ## Dataset
 
 Source: Financial Sample Dataset (Kaggle)
+
+Dataset Link:
+https://www.kaggle.com/datasets/talalhakem/financial-sample
